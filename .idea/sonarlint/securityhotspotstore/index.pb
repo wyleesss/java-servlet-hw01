@@ -1,0 +1,29 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+k
+;src/main/java/org/example/javaservlethw01/QuoteServlet.java,f\c\fc079933c8a036d130dc5f4fb3b796ff5f66f38a
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+J
+src/main/webapp/index.html,1\3\1337d72a3b1928dba82aa5210f5cdc0e88ce895b
+T
+$src/main/webapp/WEB-INF/numbers.html,6\1\6104a2fe836a26427aa4d74fa54773c14d1624df
+L
+src/main/webapp/numbers.html,a\e\aeaabedf2c5925407c272f59a44d6b3bdf7fb95a
+P
+ src/main/webapp/numbersForm.html,a\b\ab67c922980320e6acd7aea8ed87125d90e4c187
+m
+=src/main/java/org/example/javaservlethw01/NumbersServlet.java,d\b\db517a9b268d5e9f15234381b332dff9465e3a60
+I
+src/main/webapp/index.css,5\2\529ccd528a0b83afd19d8ce40ad8d7c3767f3558
+I
+src/main/webapp/text.html,8\2\8265b147099b3df3c6428b8b435f53b458d5b33f
+j
+:src/main/java/org/example/javaservlethw01/TextServlet.java,3\9\39978b0e7b31077c43d40e7eb149c280896f0323
+O
+src/main/webapp/calculator.html,3\a\3a29fc329c3a16bdb013e24327ed881c2412258b
+p
+@src/main/java/org/example/javaservlethw01/CalculatorServlet.java,5\c\5ce24ba708bbba08e295748da21ecfdd45fb182d

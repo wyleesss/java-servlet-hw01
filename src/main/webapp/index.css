@@ -1,0 +1,6 @@
+h1, h2, h3, a, p, label, button, input, textarea {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 5px;
+    font-family: 'Trebuchet MS', sans-serif;
+}
